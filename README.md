@@ -3,7 +3,7 @@
 Download and include file
 ```
 <script src="jquery.reverseString.js"></script>
-
+```
 ```
 $('p').reverseString();
 ```
