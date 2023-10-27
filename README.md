@@ -1,4 +1,3 @@
-# Reverse-String-Jquery-Plugin
 
 # jQuery String Reversal Plugin
 
